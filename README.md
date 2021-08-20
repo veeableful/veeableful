@@ -1,6 +1,4 @@
-<p align="center">
-  <img style="margin: 0 auto" src="https://veandco.sg-sin1.upcloudobjects.com/images/Lilis%20%28Bust%2C%20Coloured%29_Small.png" width="250px" />
-</p>
+<img align="right" src="https://veandco.sg-sin1.upcloudobjects.com/images/Lilis%20%28Bust%2C%20Coloured%29_Small.png" width="300px" />
 
 ### Heya there! 👋
 
