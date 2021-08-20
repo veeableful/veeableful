@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <img style="margin: 0 auto" src="https://veandco.sg-sin1.upcloudobjects.com/images/Lilis%20%28Bust%2C%20Coloured%29_Small.png" width="250px" />
+</p>
 
-<!--
-**veeableful/veeableful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Heya there! 👋
 
-Here are some ideas to get you started:
+I'm a software developer who was taught Pascal and C in high school and went on to teach myself some C++, JavaScript, and Go. I also like to draw in my spare time 🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Rust
+- TypeScript
+
+💬 Ask me about:
+- C/C++
+- JavaScript
+- Go
+
+📫 How to reach me: Email me at lilis@veand.co!
