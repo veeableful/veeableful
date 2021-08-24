@@ -1,5 +1,3 @@
-<img align="right" src="https://veandco.sg-sin1.upcloudobjects.com/images/Lilis%20%28Bust%2C%20Coloured%29_Small.png" width="300px" />
-
 ### Heya there! 👋
 
 I'm a software developer who was taught Pascal and C in high school and went on to teach myself some C++, JavaScript, and Go. I also like to draw in my spare time 🙂
@@ -14,3 +12,5 @@ I'm a software developer who was taught Pascal and C in high school and went on 
 - Go
 
 📫 How to reach me: Email me at lilis@veand.co!
+
+I started a Pixiv page recently at https://www.pixiv.net/en/users/5722534. There's not much there yet but I plan to continue drawing new things to put on it!
